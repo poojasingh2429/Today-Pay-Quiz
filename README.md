@@ -4,6 +4,10 @@ A clean, user-friendly *Quiz Application* built with *React* as part of a fronte
 
 ---
 
+# 🌐 Live Demo
+
+🚀 Deployed on Vercel → [Click here to view](https://today-pay-quiz-peach.vercel.app/)
+
 ## 🚀 Objective
 
 The goal of this project is to create an interactive Quiz App that:
